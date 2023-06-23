@@ -30,7 +30,6 @@ ros2 launch my_robot_package my_simulation.launch.py
    source install/setup.bash
 ros2 run my_robot_package path_planner.py
 7. Observe the simulation: The robot will start moving in the simulation environment, following the calculated shortest path based on the BFS algorithm.
-8. Customize and experiment: Feel free to customize the robot's behavior, modify the BFS algorithm, or add additional features based on your requirements.
 
 ## Contributing
 
