@@ -19,7 +19,7 @@ To run the simulation and test the BFS path planning algorithm, follow these ste
 
 1. Prerequisites: Make sure you have ROS2 and Gazebo installed on your system.
 2. Clone this repository: Use the following command to clone this repository to your local machine:
-   git clone https://github.com/Zemedkun-Abebe/BFS-Simulation-Using-Ros2-and-Gazebo-with-three-wheel-robot-model/)>](https://github.com/Zemedkun-Abebe/BFS-Simulation-Using-Ros2-and-Gazebo-with-three-wheel-robot-model/
+   git clone https://github.com/Zemedkun-Abebe/BFS-Simulation-Using-Ros2-and-Gazebo-with-three-wheel-robot-model/
 3. Build the ROS2 packages: Navigate to the cloned repository and build the ROS2 packages using the following commands:
    cd <repository-directory>
 colcon build
